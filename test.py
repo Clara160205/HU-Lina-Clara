@@ -1,8 +1,16 @@
+import sys
+import os
+
+# Füge den Pfad zum 'inital'-Ordner zu sys.path hinzu
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), 'inital')))
+
+
 import time
 import socket
 from datetime import datetime
 from inital.sort_2 import sort_2
-from inital import sort_1
+from inital.sort_1 import sort_1
+
 
 # Function to perform sorting, measure time, and assert correctness
 def test_sort(sort_function, data):

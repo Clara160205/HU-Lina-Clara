@@ -3,3 +3,18 @@ Date of Test: 2024-11-12 10:47:07
 Bubble Sort Time: 10.902179 seconds
 Quick Sort Time: 0.068332 seconds
 
+Computer Name: MBP-von-Lina
+Date of Test: 2024-11-12 11:29:21
+Bubble Sort Time: 3.119608 seconds
+Quick Sort Time: 0.006713 seconds
+
+Computer Name: MBP-von-Lina
+Date of Test: 2024-11-12 11:59:17
+Bubble Sort Time: 3.146544 seconds
+Quick Sort Time: 0.006164 seconds
+
+Computer Name: MBP-von-Lina
+Date of Test: 2024-11-12 11:59:31
+Bubble Sort Time: 3.100440 seconds
+Quick Sort Time: 0.006414 seconds
+
