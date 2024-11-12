@@ -1,8 +1,8 @@
 import time
 import socket
 from datetime import datetime
-from sort_2 import sort_2
-from sort_1 import sort_1
+from inital.sort_2 import sort_2
+from inital import sort_1
 
 # Function to perform sorting, measure time, and assert correctness
 def test_sort(sort_function, data):

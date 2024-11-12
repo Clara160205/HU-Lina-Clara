@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-5AINNI4
+Date of Test: 2024-11-12 10:47:07
+Bubble Sort Time: 10.902179 seconds
+Quick Sort Time: 0.068332 seconds
+
